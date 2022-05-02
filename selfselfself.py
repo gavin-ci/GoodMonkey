@@ -16,7 +16,7 @@ class baseFile():
       
         pass  
 
-#EXMAPLE
+#EXAMPLE
 Sol = baseFile("Sol Badguy", "TitleDiff","Pyro", "Claymore", "Junkyard Dog", 500, 25, 30, "Pyro DMG", "Gunflame", 55, "Heavy Mob Cemetary", 110)
 
 #character list starts here:
